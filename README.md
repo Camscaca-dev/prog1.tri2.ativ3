@@ -1,46 +1,46 @@
-# prog1.tri2.ativ3
-1 Classes e objetos
+# TYPESCRIPT PLAYGROUND
+1 Classes e objetos: [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR4rgBsFzZi1AdhAIwBWjVsOYAaUAoCOK-qDmMADq-3TWCqc1AqEgygHsK8KpZiHIFKWsKmCgB0oGjauvpRAGb80hy6XAqKnOxyALds-Jz5vKKh4ZFGwSbmka4eLIzeSoEhcmERoixujJyl2ZzCiXgMwQAijNnS-ADnAMca+Zw6eiwzeFvpoAAKffWiAN54oNeg0sISHAC8oADkAHLC7MbCwgDWL3gAL7TEDBeCyHzSTj8BRrDRGMwWKx7CYQ3r9SwARlAz1yAHdjqcBgAKACUIOAwVgLHYzBRMnUWkYiS2jEKZP2DOETMScUExLqA0xiTuD1JQA)
 
-2 Atributos e métodos
+2 Atributos e métodos: [link]([https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR40AtZz+AIxWthzUBwkBLo72MAaLQEcV-UHMYAHV80bTWCqSZUJBQYuGV9QPQVpTgBD3QUAOlAAeS0dfUNRBTkggC9vJX5pADNhHIUAc4BXllNlUAsrUUYAD0ZOQyVKmuYEvAYQgBFGYqL+CoBjjQ5OABsFZi9mAbw5hZMUMKUAbzxQfdBWflYVeblQAF5QAHI9ORVpBWv+g9DZU985AAoASlBd16vTgydSzRgJWbCQRfAAGmx8Sk0ABJtqwABb8XpHE5nAC+MJ+ewOuLwJIGhHgsl80X4lSmYg4wj0ACtGEZliB+sCqW9fABGS6gaSMADuoHhvl+-U5hFgLHYHOAXJBwjBCTmjGyUu5-PVII+Wp+QA](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR40AtZz+AIxWthzUBwkBLo72MAaLQEcV-UHMYAHV80bTWCqSZUJBQYuGV9QPQVpTgBD3QUAOlAAeRNtXQMjE2YAY9FPNxlmGIA3Rn4TQrktOSCAL28Fav5pADNhWoUAc4BXlhD1PVctUJ8FO29HKKNlEwsrYxd3T29fCS003pZQRw5C8XWvORDXBQAbfjqFXgVKjtMz8dCpUeYVM99mto6greYEvAMEIAEUYrRa-C6eTEHE4j2YXmYQLwcNuJhQYSUAG88KA8aBWPxWO8mqAALygADkQxU0gUlMB+Ne70+AAoAJSgHFMpmcIrCM6MBJnYSCVkAAwxYxhoAAJFjWAALCoJQnEx5yAC+4vZuPxmrwBqBhHgsl80X43WhmmEegAVowssi+WbRr4AIzk0DSRgAd1AUt8HMBIBCsBY7CRoZR-MFCThjCawZdHvjRRZSfZQA))
 
-3 Construtores (constructor)
+3 Construtores (constructor): [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR4rjPkrOrYXIB0oWMN6jOAG36Np7UAAc5jTv2ZL+0gGYGJCuQzKoNLCEhwKosyMclxy-ArmhngMgQAijF6e-ADnAMcaHFYKzFHMKXhFJaAo1rb2AN54oM1asqxyuvpyABQOKgBG1pzBoYw4oPKeggCUoPUAvniLKYTwbQrSrgp5Bcr9AFaM+mUgyZzarFy1dowAjKAAvMGMAO7V1+zdAOQKftK8Ci+02Sp0IsBY7BOwDO2mElkYhisjH83WB51kcIRlmEgm6VhsN1uhhCYWmQA)
 
-4 Instanciação de objetos
+4 Instanciação de objetos: [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQS-rNYLpnfgoDnAY9HjQwgEYArRq2HMAdKDSgADgrmt+csUs4AbBc2YcaN4ArtLCDFxy2lLMoMESxuaWogCOwRyOwuJyAIdxbt78AF4uoMzBfk5ywo5RjLwK4rZ4DBEAIowAZqr8+oYcPn4BzK14g-72IWGgAN54oAugYRIcALygAOTgwgYbeAC+LSAR8GoaWroGYhymFlYjx2MybMpTwgCMoOvSjADuk6FhAAKACUR2AEVgLHYDwhT1kwm8jBsPkYLlB8OYiOR3mEgiBCje7xsy0YIKAA)
 
-5 Modificadores de acesso (public, private, protected)
+5 Modificadores de acesso (public, private, protected): [link]()
 
-6 Propriedades somente leitura (readonly)
+6 Propriedades somente leitura (readonly): [link]()
 
-Métodos estáticos (static)
+7 Métodos estáticos (static): [link]()
 
-Propriedades estáticas (static)
+8 Propriedades estáticas (static): [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR40AAc5wnf0a8F45qBasAh636cFzAHSg023fsPHGDbYzntpnDgADrgAbO2YODgBLrmEJLQVffhCAC2MlLWE5UFZhXmFTAuUAIwArRlyHPAYvABFGADN+aX4Ac4BjjQ5OMOYI5hq8HvDQAFF4uRYlAG88UHnQNgVrTlBpOI4AXlAAcgAZYVKlAHlpEObGHbwAX2qQL1hzFkHOGXUQxnsexkSACgBKIZvYQfewhYSCX7jHRTezrCSMf5AA)
 
-Encapsulamento
+9 Encapsulamento: [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuAUCKALQmlnkWVXU220FgCmAzgC6OgDGAzwCYCWAcwD2oXowC2wgHZsATgENQogK7NR40I2mcFAB2YqANgonbWwgHSgA8qGYKjvDaIBGCncIagAZv12genLC7IL8zlr23IHCmsyMcqCO7IoRCqyKAG4Al8xiHABE4nrczPwWBVreBQ4AjiqMBQA0oIIKitKs-NIREgr8wonxgiodAOdKeu1Kwnm8Cs7MlngM3gAijH7S-GMAxxocnCbM8cyreEcKJ6AoMqwKAEIeunL8SgDeeKDfga+Z6RwHE5RABeUAABhWP3yelm5XaAAp-kZBjhQNIVBJXAkAJSgT7Q6GsAAW-CWQIiAGowcjBl8fgBfKE-TgyQxGe5yaCOZwIvEEwnfVmyYRGRiWFGCBEAA25wLRACUACSgJXvElkywU4QM6U4+nfJlM1aEeCye46N57A7KVwAK0YFjOIBWwrYXDuCgAjKAwdJGAB3G6ep46dpvPkrF2EWAsdjO4Cutmi8VHRiI-XC+5eyzFOGchEAVnB4MznpzbuMnLlvJxQA)
 
-Herança
+10 Herança: [link](https://www.typescriptlang.org/play/?&install-plugin=@structured-types/instant-documentation-plugin#code/PTAECkFUGUBUEkBi8DCBBBA1NAuUAoEUAWlLPIsquptrrsLAFMBnAFydAGMBngEwCWAcwD2oPkwC2IgHbsATgENQYgK4sxE0AAsmSmQHPFAGlCKAjqoGh5TAA62WTGW0XSWoNiL4iPv0JJuALcAZnq+jNwikmbcinaKXAJ8ilpaXNF6ppyukgBGAJcxAjIhIvKB7qCWnP5ePgHBYfJiDkxJLIqRHPKgqjEymWZiTr0l7IoySakipiKqoE4AVsoyrE5xGnFc2uUtoJxCil4euvIpkt2TXrHainkCADbJqZzpmb2W12Kr7esvaRyeliDhEDgETBSWkGkiYADp8IxIgARJghEoCAwAY80nC4j0ULCcLCR+HxhI8AFk3AJmv4AN74UDMqJyNjyVRcLzyAAUdlUeWeXFAMKYeAUJSEAEpQPSAL6IllRWG8mWMpVKjJyESPeGPERCHkAAwAJPS2NoBCw4aK5QcJsrnD4jVKmSyFQqyQSiaAUIldvJ9kwAB4cGR8Kk0ukedUsgDccfwnvJPoA4scxCGwxHQNTJLTwjG3cyE0nESBIvA2ZNptjcSo8ksmCdSVr2KAjl4AIygAC8IqYAHdQOmvDyAOTQRSd8euttsOIiHv9tbDv07PYiCfQDJsNiz8vASKwVgcEkVsmyDS6uH4piKVX4TtL28fHlzxQvjIq99AA)
 
-Polimorfismo
+11 Polimorfismo: [link]()
 
-Abstração
+12 Abstração: [link]()
 
-Getters e setters
+13 Getters e setters: [link]()
 
-Classes abstratas (abstract)
+14 Classes abstratas (abstract): [link]()
 
-Métodos abstratos
+15 Métodos abstratos: [link]()
 
-Sobrescrita de métodos (override)
+16 Sobrescrita de métodos (override): [link]()
 
-Sobrecarga de métodos (method overloading)
+17 Sobrecarga de métodos (method overloading): [link]()
 
-Parâmetros opcionais em métodos
+18 Parâmetros opcionais em métodos: [link]()
 
-Parâmetros padrão
+19 Parâmetros padrão: [link]()
 
-Herança simples
+20 Herança simples: [link]()
 
-Cadeia de herança
+21 Cadeia de herança: [link]()
 
-Tratamento de exceções (throw, try, catch)
+22 Tratamento de exceções (throw, try, catch): [link]()
 
-Classes e herança de classes de erro
+23 Classes e herança de classes de erro: [link]()
